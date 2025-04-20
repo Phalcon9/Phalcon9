@@ -25,8 +25,6 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Languages: Python, JavaScript, SQL, TypeScript  
-Data: Pandas, Airflow, dbt, PostgreSQL, BigQuery  
-Cloud: AWS (S3, Lambda, Redshift), Docker, Vercel  
-Frameworks: FastAPI, Next.js, React  
-Tools: GitHub Actions, Superset, Jupyter
+Languages: JavaScript, TypeScript, Rust  
+Cloud: Docker, Vercel  
+Frameworks: Next.js, React
