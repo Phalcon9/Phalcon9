@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
-<h1 align="center">Hi there 👋, I'm Jane Doe</h1>
-<h3 align="center">Building reliable data systems & AI-powered tools</h3>
+<h1 align="center">Daniel Isaac Tinat</h1>
+<h3 align="center">Building...</h3>
 
 <p align="center">
   <a href="https://janedoe.dev" target="_blank">
@@ -19,13 +19,6 @@
 </p>
 
 ---
-
-### 👩‍💻 About Me
-
-- 🔭 Working on an AI budgeting assistant for remote workers  
-- 🌱 Exploring **LLMs**, **vector databases**, and **cloud-native tools**  
-- 👨‍🏫 Currently mentoring junior data engineers  
-- ✨ Passionate about clean code, storytelling with data, and good coffee
 
 ---
 
