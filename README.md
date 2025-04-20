@@ -6,7 +6,7 @@
   <a href="https://janedoe.dev" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/janedoe](https://www.linkedin.com/in/isaac-daniel-54ba8a225/" target="_blank">
+  <a href="https://www.linkedin.com/in/isaac-daniel-54ba8a225/" target="_blank">
     <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="x.com/zeke183898" target="_blank">
