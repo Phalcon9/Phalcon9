@@ -26,13 +26,18 @@
 Languages:
   - JavaScript
   - TypeScript
+  - Java
   - Rust
 
-Cloud:
-  - Docker
-  - Vercel
+Cloud & Hosting:
   - Google Cloud Platform (GCP)
+  - Vercel
+
+Tools & Platforms:
+  - Docker
 
 Frameworks & Libraries:
   - Next.js
   - React
+  - Expo js
+
