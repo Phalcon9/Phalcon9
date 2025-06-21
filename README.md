@@ -3,7 +3,7 @@
 <h3 align="center">Building modern web experiences with Next.js, TypeScript, and thoughtful UI design.</h3>
 
 <p align="center">
-  <a href="https://janedoe.dev" target="_blank">
+  <a href="https://tinatportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/isaac-daniel-54ba8a225/" target="_blank">
