@@ -29,15 +29,15 @@ Languages:
   - Java
   - Rust
 
+Frameworks & Libraries:
+  - Next.js
+  - React
+  - Expo js
+
 Cloud & Hosting:
   - Google Cloud Platform (GCP)
   - Vercel
 
 Tools & Platforms:
   - Docker
-
-Frameworks & Libraries:
-  - Next.js
-  - React
-  - Expo js
 
