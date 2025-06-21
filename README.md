@@ -27,8 +27,6 @@
 
 Hi, I'm **Daniel Isaac Tinat** — a passionate **Frontend Developer** who crafts scalable, accessible, and interactive web applications. I specialize in **Next.js**, **React**, and **TypeScript**, delivering user-centric designs backed by strong development principles.
 
-🚀 From **Intern to Lead Developer** at **Ihifix Technologies**, I’ve led teams, optimized development workflows, and contributed to impactful products across e-learning, healthcare, civic tech, and more.
-
 🛠️ I’m skilled in:
 - Building responsive, mobile-first apps with Tailwind CSS, ShadCN, and Material UI  
 - Integrating secure, robust APIs into frontend apps  
