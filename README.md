@@ -43,7 +43,6 @@ Hi, I'm **Daniel Isaac Tinat** — a passionate **Frontend Developer** who craft
 
 📫 Reach me at:  
 - 📧 **tissan300@gmail.com**  
-- 📱 **(+234) 90-2247-4959**
 
 ---
 
