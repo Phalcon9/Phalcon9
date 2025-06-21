@@ -20,11 +20,19 @@
 
 ---
 
----
-
 ### 🧰 Tech Stack
 
 ```yaml
-Languages: JavaScript, TypeScript, Rust  
-Cloud: Docker, Vercel  
-Frameworks: Next.js, React
+Languages:
+  - JavaScript
+  - TypeScript
+  - Rust
+
+Cloud:
+  - Docker
+  - Vercel
+  - Google Cloud Platform (GCP)
+
+Frameworks & Libraries:
+  - Next.js
+  - React
